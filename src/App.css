@@ -556,7 +556,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   background: #FFFFFF;
   border-radius: 55px;
   color: #121212;
-  padding: 85px 125px;
+  padding: 80px 100px;
   margin-bottom: 80px;
   margin-top: -122px;
 }
@@ -571,8 +571,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   border-radius: 20px;
   position: relative;
   z-index: 0;
-  display: flex;
-  align-items: center;
+ min-width: 100%!important;
 }
 .new-email-bx::before {
   content: "";
@@ -602,15 +601,20 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   font-weight: 500;
   background: transparent;
   border: 0;
-  padding: 0 15px;
+  padding: 10px 20px;
+  margin: 0;
 }
 .new-email-bx button {
   background: linear-gradient(90.21deg, #ffc200 -5.91%, #474748  111.58%);
-  padding: 20px 65px;
+
   color: #fff;
   font-weight: 500;
   letter-spacing: 0.5px;
   border-radius: 18px;
+	 width: 10rem;
+    height: 4rem;
+    font-size: 20px;
+  padding-right: 60px;
 }
 .footer h2 {
  font-size: 40px;
