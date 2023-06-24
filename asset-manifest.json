@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portofilio-reactt/static/css/main.c0778b35.css",
+    "main.js": "/portofilio-reactt/static/js/main.ac678a4c.js",
+    "static/js/787.bbb9142f.chunk.js": "/portofilio-reactt/static/js/787.bbb9142f.chunk.js",
+    "static/media/3.png": "/portofilio-reactt/static/media/3.dcadc5398532fc29d20f.png",
+    "static/media/undraw_software_engineer_lvl5.svg": "/portofilio-reactt/static/media/undraw_software_engineer_lvl5.5995444d2fbc3b2f563783ee8ffbb800.svg",
+    "static/media/revicons.eot": "/portofilio-reactt/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/portofilio-reactt/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/eeee.jpg": "/portofilio-reactt/static/media/eeee.2d141734004cbb6dde7b.jpg",
+    "static/media/web3.jpg": "/portofilio-reactt/static/media/web3.a87057acbfafa088015d.jpg",
+    "static/media/revicons.woff": "/portofilio-reactt/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/ppppppppppp.svg": "/portofilio-reactt/static/media/ppppppppppp.3fa63303744c2a3307e272eda33046ac.svg",
+    "static/media/xxxxxxxxxxxx.svg": "/portofilio-reactt/static/media/xxxxxxxxxxxx.9f681995984f6275b5cae929087b8e48.svg",
+    "static/media/nav-icon3.svg": "/portofilio-reactt/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "static/media/logo.svg": "/portofilio-reactt/static/media/logo.eaf3c0bc058e0ed6471ba20dc0af6da2.svg",
+    "index.html": "/portofilio-reactt/index.html",
+    "static/media/nav-icon1.svg": "/portofilio-reactt/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/arrow2.svg": "/portofilio-reactt/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
+    "static/media/arrow1.svg": "/portofilio-reactt/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
+    "static/media/nav-icon2.svg": "/portofilio-reactt/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.c0778b35.css.map": "/portofilio-reactt/static/css/main.c0778b35.css.map",
+    "main.ac678a4c.js.map": "/portofilio-reactt/static/js/main.ac678a4c.js.map",
+    "787.bbb9142f.chunk.js.map": "/portofilio-reactt/static/js/787.bbb9142f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0778b35.css",
+    "static/js/main.ac678a4c.js"
+  ]
+}
